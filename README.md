@@ -4,7 +4,7 @@
 
 ---
 
-- [프로그래머스](https://programmers.co.kr/tos "Programmers")라는 사이트에 존재하는 코딩테스트 문제들을 풀어 올려놓은 Repository
+- [프로그래머스](https://programmers.co.kr/ "Programmers")라는 사이트에 존재하는 코딩테스트 문제들을 풀어 올려놓은 Repository
 
 - 알고리즘, 코딩 능력을 학습 및 실력향상이 주 목적이며, 과거에 작성한 코드를 리뷰하며 더 좋은 코드를 작성할 수 있는지 늘 고민하기 위해 Repository를 만들어 기록함
 
