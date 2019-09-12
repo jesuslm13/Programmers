@@ -16,7 +16,7 @@
 
 | No   | 문제 | 난이도 | 프로그래밍 언어 | 문제출처 |
 | :----: | :----: | :------: | :---------------: | :-------: |
-| 1 | [모든 레코드 조회하기](./Programmers/src/Level01/Level01_SQL01.sql "코드 보기") | Level1 | <img src=".\img\mysql.jpg" alt="mysql" style="zoom:25%;" /> | [] |
+| 1 | [모든 레코드 조회하기](./Programmers/src/Level01/Level01_SQL01.sql "코드 보기") | Level1 | ![mysql](./mg/mysql.jpg){: width="100%" height="100%"} | [] |
 | 2 | [최댓값 구하기](./Programmers/src/Level01/Level01_SQL02.sql "코드 보기") | Level1 | <img src=".\img\mysql.jpg" alt="mysql" style="zoom:25%;" /> | |
 | 3 | [완주하지 못한 선수](./Programmers/src/Level01/Level01_Solution01.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" style="zoom:10%;" /> | |
 | 4 | [모의고사](./Programmers/src/Level01/Level01_Solution02.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" style="zoom:10%;" /> | |
