@@ -28,8 +28,6 @@ package Level01;
 				}
 			}
 			
-			System.out.println("================================");
-			
 			for(int l : lost_list) {
 				
 				System.out.println("reserve_list : "+reserve_list);
