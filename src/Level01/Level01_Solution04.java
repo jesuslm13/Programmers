@@ -15,7 +15,7 @@ package Level01;
 			for(int r : reserve) {
 				reserve_list.add(r);
 			}
-			
+			 
 			for(int l : lost) {
 				lost_list.add(l);
 			}
