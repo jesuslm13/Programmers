@@ -10,7 +10,7 @@
 
 
 
-### Index
+### Indexa
 
 ---
 
@@ -21,5 +21,6 @@
 |  3   | [완주하지 못한 선수](./src/Level01/Level01_Solution01.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/42576 "문제 보기") |
 |  4   | [모의고사](./src/Level01/Level01_Solution02.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/42840 "문제 보기") |
 |  5   | [K번째수](./src/Level01/Level01_Solution03.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/42748 "문제 보기") |
-|  6   | [체육복](./src/Level01/Level01_Solution04.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/42862 "문제 보기") |
-
+|  6   | [체육복](./src/Level01/Level01_Solution04.java "코드 보기")  | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/42862 "문제 보기") |
+|  7   | [2016년](./src/Level01/Level01_Solution05.java "코드 보기")  | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12901 "문제 보기") |
+|  8   | [가운데 글자 가져오기](./src/Level01/Level01_Solution06.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12903 "문제 보기") |
