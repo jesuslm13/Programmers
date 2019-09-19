@@ -27,4 +27,5 @@
 |  9   | [같은 숫자는 싫어](./src/Level01/Level01_Solution07.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12906?language=java "문제 보기") |
 |  10  | [나누어 떨어지는 숫자 배열](./src/Level01/Level01_Solution08.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12910 "문제 보기") |
 |  11  | [두 정수 사이의 합](./src/Level01/Level01_Solution09.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12912 "문제 보기") |
+|  12  | [문자열 내 마음대로 정렬하기](./src/Level01/Level01_Solution10.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12915 "문제 보기") |
 
