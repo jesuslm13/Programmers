@@ -1,6 +1,6 @@
 package Level01;
 
-class Solution17 {
+class Solution16 {
 	  public String solution(int n) {
 	      String answer = "";
 	      
@@ -25,7 +25,7 @@ public class Level01_Solution16 {
 	public static void main(String[] args) {
 		
 		int n = 3;
-		String answer = new Solution17().solution(n);
+		String answer = new Solution16().solution(n);
 		System.out.println(answer);
 	}
 }
