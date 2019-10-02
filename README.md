@@ -32,4 +32,4 @@
 |  15  | [문자열 다루기 기본](./src/Level01/Level01_Solution13.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12918 "문제 보기") |
 |  16  | [서울에서 김서방 찾기](./src/Level01/Level01_Solution14.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12919 "문제 보기") |
 |  17  | [소수 찾기](./src/Level01/Level01_Solution15.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12921 "문제 보기") |
-
+|  18  | [수박수박수박수박수박수?](./src/Level01/Level01_Solution16.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12922 "문제 보기") |
