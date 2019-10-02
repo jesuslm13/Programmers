@@ -21,7 +21,7 @@ class Solution18 {
 			if(new Character(c).equals(' ')) {
 				sb.append(" ");
 			} else {
-				if( (int) c>=97) {	// 소문자
+				if( Character.isLowerCase(c)) {	// 소문자
 					try {
 						sb.append(lower_list.get(lower_list.indexOf(c)+n));
 					} catch(Exception e) {
