@@ -37,3 +37,4 @@
 |  20  | [시저 암호](./src/Level01/Level01_Solution18.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12926 "문제 보기") |
 |  21  | [약수의 합](./src/Level01/Level01_Solution19.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12928 "문제 보기") |
 |  22  | [어린 동물 찾기](./src/Level01/Level01_SQL03.sql "코드 보기") | Level1 | <img src=".\img\mysql.jpg" alt="mysql" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/59037 "문제 보기") |
+|  23  | [이상한 문자 만들기](./src/Level01/Level01_Solution20.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12930 "문제 보기") |
