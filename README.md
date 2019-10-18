@@ -42,4 +42,4 @@
 |  25  | [자연수 뒤집어 배열로 만들기](./src/Level01/Level01_Solution22.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12932 "문제 보기") |
 |  26  | [정수 내림차순으로 배치하기](./src/Level01/Level01_Solution23.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12933 "문제 보기") |
 |  27  | [정수 제곱근 판별](./src/Level01/Level01_Solution24.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://www.welcomekakao.com/learn/courses/30/lessons/12934 "문제 보기") |
-|  28  | [제일 작은 수 제거하기](./src/Level01/Level01_Solution24.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12935#qna "문제 보기") |
+|  28  | [제일 작은 수 제거하기](./src/Level01/Level01_Solution25.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12935#qna "문제 보기") |
