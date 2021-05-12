@@ -36,8 +36,8 @@ public class Level01_Solution01 {
 
 	public static void main(String[] args) {
 		
-		String[] participant = {"leo", "kiki", "eden"};
-		String[] completion = {"kiki", "eden"};
+		String [] participant = {"leo", "kiki", "eden"};
+		String [] completion = {"kiki", "eden"};
 		String res = new Solution01().solution(participant, completion);
 		System.out.println(res);
 	}
