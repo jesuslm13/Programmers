@@ -31,6 +31,7 @@ class Solution27 {
         				if(Math.floorMod(sumRes, l) == 0 && sumRes%l == sumRes) {
         					answer_list.add(Integer.valueOf(max_num));
         					System.out.println("add max_num : " + max_num);
+        					
         				}
         			}
         		}
