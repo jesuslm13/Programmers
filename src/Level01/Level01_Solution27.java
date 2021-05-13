@@ -18,6 +18,7 @@ class Solution27 {
     	int max_num = new Solution27().getMaxNum(nums);
     	
     	int sumRes = 0;
+    	boolean is_prime_number;
     	List<Integer> answer_list = new ArrayList<Integer>();
         int answer = 0;
         
@@ -25,15 +26,23 @@ class Solution27 {
         	for(int j=i+1; j<=endflag_2nd; j++) {
         		for(int k=j+1; k<=endflag_3rd; k++) {
         			
+        			is_prime_number = true;
         			sumRes = nums[i] + nums[j] + nums[k];
+        			
         			System.out.println("sumRes : " + sumRes);
-        			for(int l = 2; l<sumRes; l++) {
-        				if(Math.floorMod(sumRes, l) == 0 && sumRes%l == sumRes) {
-        					answer_list.add(Integer.valueOf(max_num));
-        					System.out.println("add max_num : " + max_num);
-        					
+        			for(int l = sumRes-1; l>1; l--) {
+        				System.out.println("[l] : " + l);
+        				System.out.println(sumRes%l);
+        				if(sumRes%l == 0) {
+        					is_prime_number = false;
         				}
         			}
+        			
+        			if(is_prime_number) {
+    					if(!answer_list.contains(Integer.valueOf(sumRes)));
+    					System.out.println("add max_num : " + sumRes);
+    					answer_list.add(Integer.valueOf(sumRes));
+    				}
         		}
         	}
         }
@@ -52,8 +61,6 @@ class Solution27 {
     			max_num = i;
     		}
     	}
-    	
-    	System.out.println("max_num : " + max_num);
     	
     	return max_num;
     }
