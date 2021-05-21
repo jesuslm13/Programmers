@@ -46,3 +46,4 @@
 |  29  | [짝수와 홀수](./src/Level01/Level01_Solution26.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12937 "문제 보기") |
 |  30  | [소수 만들기](./src/Level01/Level01_Solution27.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/12977 "문제 보기") |
 |  31  | [크레인 인형뽑기 게임](./src/Level01/Level01_Solution28.java "코드 보기") | Level1 | <img src=".\img\Java.png" alt="Java" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/64061 "문제 보기") |
+|  32  | [여러 기준으로 정렬하기](./src/Level01/Level01_SQL04.sql "코드 보기") | Level1 | <img src=".\img\mysql.jpg" alt="mysql" width="50" height="50" /> | [url](https://programmers.co.kr/learn/courses/30/lessons/59404 "문제 보기") |

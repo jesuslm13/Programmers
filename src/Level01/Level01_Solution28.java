@@ -16,7 +16,7 @@ class Solution28 {
         	int max_index = board.length-1;
         	
         	while(flag) {
-//        		System.out.println("board[index][input-1] :: " + board[index][input-1]);
+        		System.out.println("뽑은 인형 이름 :: " + board[index][input-1]);
         		if(board[index][input-1] != 0) {
         			list.add(board[index][input-1]);
         			board[index][input-1] = 0;
@@ -24,6 +24,8 @@ class Solution28 {
         			if(list.size() >=2) {
         				int item_1st = list.get(list.size()-1);
         				int item_2nd = list.get(list.size()-2);
+        				
+        				System.out.println("인접한 뽑은 인형 : " + item_1st + " / : " + item_2nd);
         				
         				if(item_1st == item_2nd) {
         					answer += 2;
