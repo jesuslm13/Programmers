@@ -25,10 +25,10 @@ class Solution27 {
 					is_prime_number = true;
 					sumRes = nums[i] + nums[j] + nums[k];
 					
-					System.out.println("sumRes : " + sumRes);
+//					System.out.println("sumRes : " + sumRes);
 					for(int l = sumRes-1; l>1; l--) {
-						System.out.println("[l] : " + l);
-						System.out.println(sumRes%l);
+//						System.out.println("[l] : " + l);
+//						System.out.println(sumRes%l);
 						if(sumRes%l == 0) {
 							is_prime_number = false;
 						}
@@ -36,7 +36,7 @@ class Solution27 {
 					
 					if(is_prime_number) {
 					if(!answer_list.contains(Integer.valueOf(sumRes)));
-					System.out.println("add sumRes : " + sumRes);
+//					System.out.println("add sumRes : " + sumRes);
 					answer_list.add(Integer.valueOf(sumRes));
 					}
 				}
