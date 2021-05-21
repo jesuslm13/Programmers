@@ -9,10 +9,17 @@ class Solution28 {
         List<Integer> list = new ArrayList<Integer>();
         
         for(int input : moves) {
-        	for(int item = board[input-1].length-1; item >= 0; item--) {
-        		if(board[input-1][item] != 0) {
-        			list.add(board[input-1][item]);
-        			board[input-1][item] = 0;
+        	// 인형이 뽑히면 loop 제어
+        	boolean flag = true;
+        	
+        	int index = 0;
+        	int max_index = board.length-1;
+        	
+        	while(flag) {
+//        		System.out.println("board[index][input-1] :: " + board[index][input-1]);
+        		if(board[index][input-1] != 0) {
+        			list.add(board[index][input-1]);
+        			board[index][input-1] = 0;
         			
         			if(list.size() >=2) {
         				int item_1st = list.get(list.size()-1);
@@ -24,8 +31,16 @@ class Solution28 {
         					list.remove(list.size()-1);
         				}
         			}
+        			
+        			flag = false;
+        		} else {
+        			if(index == max_index) {
+        				flag = false;
+        			} else {
+        				index ++;
+        			}
         		}
-        	}
+            }
         }
         
         return answer;
