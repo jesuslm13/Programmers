@@ -1,4 +1,4 @@
-package Level03;
+package Level02;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,7 @@ class Solution01 {
     	List<Integer> remainder_list = new ArrayList<Integer>();
         String answer = "";
         boolean flag = true;
-        
+         
         while(flag) {
         	int q = Math.floorDiv(n, 3);
         	int remainder = n%3;
@@ -41,7 +41,7 @@ class Solution01 {
     }
 }
 
-public class Level03_Solution01 {
+public class Level02_Solution01 {
 
 	public static void main(String[] args) {
 		
